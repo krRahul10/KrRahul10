@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krrahul10" alt="krrahul10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@irahulkumar" target="blank"><img src="https://img.shields.io/twitter/follow/@irahulkumar?logo=twitter&style=for-the-badge" alt="@irahulkumar" /></a> </p>
 
 - 🔭 I’m currently working on [Dunzo](https://grand-chaja-8206b5.netlify.app/)
 
