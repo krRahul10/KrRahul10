@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=00ff2a&amp;size=20&amp;lines=Hey!+It's+Rahul+Kumar!;Learning+JavaScript+Full-Stack+Web+Development...👨🏻‍💻;" style="width: 100%;"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Quantico&amp;color=00ff2a&amp;size=20&amp;lines=Hey!+It's+Rahul+Kumar!;Learning+JavaScript+Full-Stack+Web+Development...👨🏻‍💻;" align="center" style="width: 100%;"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="center">
@@ -7,11 +7,11 @@
  
 </p>
 <div align="center">
- <img height="400px" width="850" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
+ <img height="350px" width="750" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
 </div>
 
 
-<div size='20px'>Hi, I'm Rahul Kumar, A Full Stack Web Developer 🚀 from Delhi, India, 💻 done my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm a #####Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling 
+<div size='20px' padding="0px 100px 0px 100px"><h2>Hi, I'm Rahul Kumar, A Full Stack Web Developer 🚀 from Delhi, India, 💻 done my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm at Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling </h2>
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  height=50px></h2>
