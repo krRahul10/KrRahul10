@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=00ff2a&amp;size=20&amp;lines=Hey!+It's+Rahul+Kumar!;Learning+JavaScript+Full-Stack+Web+Development...👨🏻‍💻;" style="width: 100%;"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
  
 </p>
 <div align="center">
- <img height="300px" width="550" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
+ <img height="400px" width="850" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
 </div>
 
 
