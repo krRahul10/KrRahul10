@@ -34,6 +34,17 @@
 
 <br/>
 
+🌐 Socials
+<p align="left">
+<a href = "mailto:rahul10kr7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rahulfw14042-61cawy24l-rahul10kr7-gmailcom.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://drive.google.com/drive/folders/149TZcmx1Y5dDpjyYuZuXOfJcU4EcVgHF?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+ 
+
+</p>
+                                                                                                                       
+ <br/> 
+
 <h2 align="left">Connect With Me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-kumar-42b196233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Kumar" height="30" width="40" /></a>
