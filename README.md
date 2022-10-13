@@ -42,7 +42,7 @@
 <p align="left">
 <a href = "mailto:rahul10kr7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://rahulfw14042-61cawy24l-rahul10kr7-gmailcom.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
-<a href="https://drive.google.com/drive/folders/149TZcmx1Y5dDpjyYuZuXOfJcU4EcVgHF?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1QhZv9P4DDnSzV-PfGJKOhBWPO-8FVQ4K/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
 
 </p>
