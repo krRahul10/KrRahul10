@@ -57,8 +57,9 @@
 <hr>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrRahul10" alt="KrRahul10" /></a> </p>
-
-
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KrRahul10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ -->
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=KrRahul10&show_icons=true&theme=onedark" alt="KrRahul10" />
@@ -76,4 +77,17 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
-<h1 align="center"> Thank You ❤</h1>
+<!-- <h1 align="center"> Thank You ❤</h1> -->
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KrRahul10&icon=5&color=1)](https://visitcount.itsvg.in)
+
+![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=40F731&center=true&vCenter=true&width=1001&height=101&lines=Thanks++For+Visiting+My+Profile!)](https://git.io/typing-svg)
+
